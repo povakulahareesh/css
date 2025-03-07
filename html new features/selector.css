@@ -1,0 +1,56 @@
+
+/* selector */
+
+
+/* selector means group of styles for reusability 
+types of selectors
+tag/element selectotr
+group of tag selector
+class selector
+id selector#
+attribute selector[]
+universal selector*/
+
+
+/* id selector */
+
+
+#ab{
+    background-color: aqua;
+}
+
+
+/* class selector */
+.class{
+    background-color: blueviolet;
+}
+/* tag selector */
+h3{
+    background-color: crimson;
+}
+
+/* group of tag selector */
+h5,p,div{
+    background-color: chartreuse;
+}
+/* attribute selector  */
+/* which ine we want to convert new tab use target="_blank */
+/* used to convert into another page when we press an particular link */
+
+a{
+    background-color: blue;
+}
+
+/* when we want apply different color for anchor tag */
+a[target]{
+    background-color: chocolate;
+}
+
+
+/*universal selector*/
+/* used to apply whole color*/
+
+
+*{ 
+    background-color: rebeccapurple;
+}

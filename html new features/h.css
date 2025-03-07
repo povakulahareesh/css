@@ -1,0 +1,37 @@
+
+
+
+/* selector */
+
+
+/* selector means group of styles for reusability 
+types of selectors
+tag/element selectotr
+group of tag selector
+class selector
+id selector#
+attribute selector[]
+universal selector*
+
+
+*/
+/* 
+h1{
+    background-color: chartreuse;
+} */
+
+
+/* class selector 
+is there code re usability */
+
+
+/* 
+.cl{
+    background-color: blue;
+    
+} */
+
+h1[targret]{
+    background-color: darkgreen;
+}
+

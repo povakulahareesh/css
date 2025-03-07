@@ -1,0 +1,8 @@
+/* using style attribute we can appl styles but there is some drawbacks they are ( style re usabilaty,readability,modularity),page load faster ,global change)
+--cascading means bringing styles  to our web document from the css file */
+
+/* usec of css is code re usability */
+
+h2,p{
+    background-color: brown;
+}
